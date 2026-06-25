@@ -4,7 +4,7 @@ using namespace std;
 
 void ViewOptions(char& op)
 {
-	cout << "Choose opertaion: + - * /: " << endl;
+	cout << "Choose operation: + - * /: " << endl;
 	cin >> op;
 }
 
